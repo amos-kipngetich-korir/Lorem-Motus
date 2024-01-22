@@ -2,13 +2,12 @@
 
 ## Step 1: Fork the Repository
 
-1. Open your web browser and navigate to the [main repository](https://github.com/CodeDroid999/SES-Web-Developer-Mentorship) of the Web Mentorship Program.
+1. Open your web browser and navigate to the [main repository](https://github.com/amos-kipngetich-korir/Lorem-Motus) of the Lorem Motus project.
 2. Click the **Fork** button in the upper right corner of the repository page. This will create a copy (fork) of the repository in your GitHub account.
 
 ## Step 2:  upload File
-
-1. In your forked repository, locate the **+ ** icon.TIONS.
-2. Click on that icon to upload new file or folder
+1. In your forked repository, locate go to file button window.
+2. Click on add new file or new folder to upload new file or folder
 3. Scroll down to the **Commit changes** section.
 4. Provide a meaningful commit message describing your changes, such as "added my inverter design file."
 5. Click the **Commit changes** button to save your edits.
