@@ -1,6 +1,6 @@
 # Vehicle Parameter
->>Velocity=**120km/hr**
-this is equivalent to 33.333m/s
+  Velocity=**120km/hr**
+  this is equivalent to 33.333m/s
 Vehiclt total mass=**200kg**
 Number of the Passengers=**4**
 $=4*80=320kg$
