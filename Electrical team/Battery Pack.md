@@ -1,9 +1,9 @@
 # Vehicle Parameter
 
   Velocity=**120km/hr**
-  this is equivalent to 33.333m/s
+  this is equivalent to **33.333m/s**
   
-Vehicle total mass=**200kg**
+  Vehicle total mass=**200kg**
 
 Number of the Passengers=**4**
 
@@ -18,11 +18,11 @@ where cr is the coeffficient of the friction
 
 m is the mass of the vehicle
 g is the gravity
-Fr$=0.015*2320*9.81$
+F_r$=0.015*2320*9.81$
  $ =341.388N$
 ## Drag Force
 
-$$Fd =1/2*0.30*1.2*2.2*(100/3)^2=440N$$  
+$$F_d =1/2*0.30*1.2*2.2*(100/3)^2=440N$$  
 Net force to overcome
 $440N+341.388N=781.388N$
 
@@ -33,29 +33,29 @@ P=781.388N*33.333m/s=26046.26667w
 Total energy usage
 E=P*t
  =26.045kw*(300km/120km/hr)
- $=**65.125kwh**$
+ $=**65.125kwh**$  
 this the total capacity of the battery poack that we require topower our car for the 300km range
 
 # Cell Parameter
 
 Taking the semi-solid lithium ion cells we have
 
-**B7A0Y44 model**
+**B7A0Y44 model**  
 Cell Capacity=56Ah
 
 Cell Voltage=3.65V
 
-## Battery Parameter
+## Battery Parameter 
 
 Battery Capacity in Ah  
-$ 65125wh/450v $
-=144.7222Ah
-Total Number of cells(ct)
-cells in series normally add up the voltage and the cells in parallel normally add up the voltage
-Pc is the cells in parallel and is given by
-Pc=450v/3.65v
-   =123.2876712~=124cells
-Sc is the umber of cells in series
-Sc=Cb/Cc=$144.722Ah/56Ah~=3 cells$
-Total number of cells is therefore
-$124*3=372cells$
+$ 65125wh/450v $  
+=144.7222Ah  
+Total Number of cells(ct)  
+cells in series normally add up the voltage and the cells in parallel normally add up the voltage  
+Pc is the cells in parallel and is given by  
+Pc=450v/3.65v  
+   =123.2876712~=124cells  
+Sc is the umber of cells in series  
+Sc=Cb/Cc=$144.722Ah/56Ah~=3 cells$  
+Total number of cells is therefore    
+$124*3=372cells$  
