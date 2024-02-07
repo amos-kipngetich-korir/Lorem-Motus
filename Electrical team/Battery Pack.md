@@ -43,14 +43,14 @@ Cell Capacity=56Ah
 Cell Voltage=3.65V  
 
 ## Battery Parameter 
-Battery Capacity in Ah 
+Battery Capacity in Ah
   $ =65125wh/450v $
-$=144.7222Ah$ 
+$=144.7222Ah$
 ###Total Number of cells(ct)  
 cells in series normally add up the voltage and the cells in parallel normally add up the voltage  
 Pc is the cells in parallel and is given by  
 Pc=450v/3.65v
-   $=123.2876712~=124cells$   
+$=123.2876712~=124cells$   
 Sc is the umber of cells in series  
 Sc=Cb/Cc=$144.722Ah/56Ah~=3 cells$  
 Total number of cells is therefore
