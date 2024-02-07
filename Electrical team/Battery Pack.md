@@ -13,7 +13,7 @@ Number of the Passengers=**4**
 Rolling force --the friction to overcome...this is based on the standard assalt road
 
 
-$Fr=cr*m*g$
+$Fr=cr \*m \*g$
 
 
 where cr is the coeffficient of the friction
@@ -22,17 +22,17 @@ m is the mass of the vehicle
 g is the gravity 
 
 
-$$F_r=0.015*2320*9.81$$
- $ =341.388N$
+$F_r=0.015 \*2320 \*9.81$  
+ $=341.388N$
 
 
 ## Drag Force 
  
-=1/2*0.30*1.2*2.2*(100/3)^2=440N$
+$=1/2 \*0.30 \*1.2 \*2.2 \*(100/3)^2=440N$
 
 
 Net force to overcome
-$440N+341.388N=781.388N$
+**440N+341.388N=781.388N**
 
 ## Power required
 power is the product of force and the velocity 
@@ -90,7 +90,3 @@ Total number of cells is therefore
 $124*3=372cells$   
 
 
-Number of the Passengers=**4**  
- $m=4*80=320kg$
-
-**Total mass=2320kg**
