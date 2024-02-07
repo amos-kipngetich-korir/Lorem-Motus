@@ -7,7 +7,7 @@ Vehicle total mass=**200kg**
 
 Number of the Passengers=**4**
 
-$=4*80=320kg$
+$$=4*80=320kg$$
 
 **Total mass=2320kg**
 
