@@ -20,7 +20,7 @@ m is the mass of the vehicle
 g is the gravity
 $Fr=0.015*2320*9.81$
  $ =341.388N$
-##Drag Force
+## Drag Force
 
 $Fd =1/2*0.30*1.2*2.2*(100/3)^2=440N$
 Net force to overcome
