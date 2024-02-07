@@ -41,20 +41,18 @@ this the total capacity of the battery poack that we require topower our car for
 Taking the semi-solid lithium ion cells we have
 
 **B7A0Y44 model**  
-Cell Capacity=56Ah
-
-Cell Voltage=3.65V
+Cell Capacity=56Ah  
+Cell Voltage=3.65V  
 
 ## Battery Parameter 
-
 Battery Capacity in Ah  
-$ 65125wh/450v $  
-=144.7222Ah  
-Total Number of cells(ct)  
+  $ 65125wh/450v $  
+$\eq144.7222Ah$ 
+###Total Number of cells(ct)  
 cells in series normally add up the voltage and the cells in parallel normally add up the voltage  
 Pc is the cells in parallel and is given by  
 Pc=450v/3.65v  
-   =123.2876712~=124cells  
+   $\eq123.2876712\neq124cells$   
 Sc is the umber of cells in series  
 Sc=Cb/Cc=$144.722Ah/56Ah~=3 cells$  
 Total number of cells is therefore    
