@@ -10,7 +10,7 @@ Number of the Passengers=**4**
 
 **Total mass=2320kg**
 
-Rolling force --the friction to be overcome...this is based on the standard assalt road
+Rolling force --the friction to overcome...this is based on the standard assalt road
 
 
 $Fr=cr*m*g$
@@ -26,8 +26,6 @@ $$F_r=0.015*2320*9.81$$
  $ =341.388N$
 
 
-Weigth of the passengers
- $=4*80=320kg$
 ## Drag Force 
  
 =1/2*0.30*1.2*2.2*(100/3)^2=440N$
@@ -80,7 +78,7 @@ Pc=450v/3.65v
 
 
 $=123.2876712~=124cells$   
-Sc is the umber of cells in series  
+Sc is the number of cells in series  
 
 
 Sc=Cb/Cc=
