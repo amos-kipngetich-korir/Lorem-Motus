@@ -47,7 +47,7 @@ Cell Voltage=3.65V
 
 ##Battery Parameter
 
-Battery Capacity in Ah
+Battery Capacity in Ah  
 =$65125wh/450v$
 =144.7222Ah
 Total Number of cells(ct)
