@@ -13,7 +13,7 @@ $$=4*80=320kg$$
 
 Rolling force --the firction to be overcome...this is based on the standard assalt road
 
-$=Fr=cr*m*g$
+$$=Fr=cr*m*g$$
 where cr is the coeffficient of the friction
 
 m is the mass of the vehicle
