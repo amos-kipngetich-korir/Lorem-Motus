@@ -26,7 +26,7 @@ $Fd =1/2*0.30*1.2*2.2*(100/3)^2=440N$
 Net force to overcome
 $440N+341.388N=781.388N$
 
-##Power required
+## Power required
 power is the product of force and the velocity
 P=781.388N*33.333m/s=26046.26667w
 **=26.046kw**
@@ -36,7 +36,7 @@ E=P*t
  $=**65.125kwh**$
 this the total capacity of the battery poack that we require topower our car for the 300km range
 
-#Cell Parameter
+# Cell Parameter
 
 Taking the semi-solid lithium ion cells we have
 
@@ -45,10 +45,10 @@ Cell Capacity=56Ah
 
 Cell Voltage=3.65V
 
-##Battery Parameter
+## Battery Parameter
 
 Battery Capacity in Ah  
-=$65125wh/450v$
+$ 65125wh/450v $
 =144.7222Ah
 Total Number of cells(ct)
 cells in series normally add up the voltage and the cells in parallel normally add up the voltage
