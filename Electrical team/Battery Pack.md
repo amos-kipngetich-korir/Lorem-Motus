@@ -46,7 +46,7 @@ Cell Voltage=3.65V
 
 ## Battery Parameter 
 Battery Capacity in Ah  
-  $ 65125wh/450v $  
+  $ 65125wh/450v $
 $\eq144.7222Ah$ 
 ###Total Number of cells(ct)  
 cells in series normally add up the voltage and the cells in parallel normally add up the voltage  
