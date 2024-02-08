@@ -10,7 +10,7 @@ Number of the Passengers=**4**
 
 **Total mass=2320kg**
 
-Rolling force --the friction to overcome...this is based on the standard assalt road
+Rolling force --the friction to overcome...this is based on the standard assalt road  
 
 
 $Fr=cr \*m \*g$
