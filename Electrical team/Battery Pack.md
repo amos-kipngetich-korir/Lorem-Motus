@@ -3,7 +3,7 @@
   Velocity=**120km/hr**
   this is equivalent to **33.333m/s**
   
-  Vehicle total mass=**200kg**
+  Vehicle total mass=**2000kg**
 
 Number of the Passengers=**4**  
  $m=4*80=320kg$
